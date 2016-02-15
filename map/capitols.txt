@@ -1,0 +1,8 @@
+Northeast United States  (1675,797)
+United Kingdom  (2979,547)
+New South Wales  (5593,2178)
+Moscow  (3595,435)
+Poland  (3350,585)
+Egypt  (3550,1140)
+East China  (5085,1070)
+Burma  (4700,1193)
